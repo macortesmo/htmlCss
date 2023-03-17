@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 div {
     width: fit-content;
     height: fit-content;
@@ -8,4 +9,16 @@ div {
     /*transform: translate(25px, 40px);*/
     transform: skew(45deg);
 
+=======
+div {
+    width: fit-content;
+    height: fit-content;
+    background-color: blue;
+    /*transform: rotate(-20deg);*/
+    /*transform: scale(1.5);*/
+    /*transform: scale(1.5, 2);*/
+    /*transform: translate(25px, 40px);*/
+    transform: skew(45deg);
+
+>>>>>>> b95d80f3e4eb47dd66f8f2f3e7acb8c1602f3668
 }
