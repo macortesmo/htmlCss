@@ -7,4 +7,4 @@ Aca encontraras una pagina web con todos los conceptos básicos y comentados de 
 
 Carpeta 1 CSS y HTML
 
-Pruebda de carga
+Prueba de carga
