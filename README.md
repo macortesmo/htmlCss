@@ -6,3 +6,5 @@ Aca encontraras una pagina web con todos los conceptos básicos y comentados de 
  Responsive design)
 
 Carpeta 1 CSS y HTML
+
+Pruebda de carga
